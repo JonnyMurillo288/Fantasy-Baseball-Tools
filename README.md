@@ -9,9 +9,9 @@
 `python3 two_starts.py [-arguments]`
 
 - Current Commands:
-    -[-h or -help] displays the help menu and split stats
-    -[-d or -display] displays the pitchers with two starts next week and their matchups
-    -["Pitcher Name"] [-s of -stats] <Split Stat>
+    - [-h or -help] displays the help menu and split stats
+    - [-d or -display] displays the pitchers with two starts next week and their matchups
+    - ["Pitcher Name"] [-s of -stats] <Split Stat>
 
 - Split Stat Options
     -Season Totals
