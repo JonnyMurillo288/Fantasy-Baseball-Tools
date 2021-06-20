@@ -37,7 +37,7 @@
     - Game Conditions
     - Ballparks
 
-    - Additional Pitcher Options:
+- Additional Pitcher Options:
 
     - Game Outcome for Pitcher
     - Pitching Role
@@ -47,7 +47,7 @@
     - Days of Rest
     - By Umpire
 
-    - Additional Batter Options:
+- Additional Batter Options:
 
     - Game Outcome for Team
     - Starter or Substitute
